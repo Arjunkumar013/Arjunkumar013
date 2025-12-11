@@ -1,18 +1,4 @@
-<!-- ========================================================= -->
-<!-- 🌌 CYBERPUNK HERO BANNER -->
-<!-- ========================================================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=🚀+ARJUN+KUMAR+R;AI+%26+DATA+SCIENCE+STUDENT;BUILDING+EV+BATTERY+SOC+PREDICTION;COMPETITIVE+CODER+%7C+FULL-STACK+LEARNER" />
-</p>
-
-<h1 align="center">
-  <span style="color:#00FFFF; text-shadow:0 0 10px #00FFFF, 0 0 20px #00FFFF;">✨ Welcome to My Cyberpunk GitHub ✨</span>
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjunkumar013&label=Profile+Views&color=0ef&style=for-the-badge" />
-</p>
-
+![Header](./arjun.png)
 ---
 
 # 👨‍💻 About Me
