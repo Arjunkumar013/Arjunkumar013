@@ -1,8 +1,9 @@
-![Header](./arjun.png)
----
+p align="center">
+  <img src="./arjun.svg" alt="Arjun Kumar GitHub Banner" width="100%" />
+</p>
 
 # 👨‍💻 About Me
-- 🔋 AI & Data Science Student | EV Battery Systems Enthusiast  
+- 🔋 AI & Data Science Student | Full Stack Developer 
 - 💡 Problem Solver & Critical Thinker  
 - 🌱 Always Learning & Building Real-World Projects  
 
@@ -82,7 +83,7 @@
 ---
 
 # 🔋 Currently Working On
-- EV Battery SoC Prediction ML Model  
+- Algorithm visualizer-Full Stack  
 - Advanced DSA & Competitive Coding  
 - New Machine Learning Projects  
 
