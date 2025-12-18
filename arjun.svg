@@ -37,8 +37,8 @@
   <!-- TERMINAL -->
   <g id="terminal">
     <text x="20" y="40" font-family="monospace" font-size="14" fill="#50fa7b">
-      Arjunkumar013@github:~$ 
-      <tspan fill="#f8f8f2">GET profile Arjunkumar013 --verbose</tspan>
+      Arjunkumar013@github:~$
+      <tspan fill="#f8f8f2"> GET profile Arjunkumar013 --verbose</tspan>
     </text>
 
     <text x="20" y="70" font-family="monospace" font-size="16" fill="#bd93f9" font-weight="bold">
@@ -91,7 +91,7 @@
 
     <text x="400" y="130" font-family="Helvetica, Arial, sans-serif"
           font-size="18" text-anchor="middle" fill="#8be9fd">
-      AI & Data Science | Full Stack Developer
+      AI &amp; Data Science | Full Stack Developer
     </text>
 
     <animate attributeName="opacity" values="0;1" begin="7s" dur="1s" fill="freeze"/>
