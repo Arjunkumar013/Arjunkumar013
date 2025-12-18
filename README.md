@@ -1,5 +1,9 @@
-p align="center">
-  <img src="./arjun.svg" alt="Arjun Kumar GitHub Banner" width="100%" />
+<p align="center">
+  <img 
+  src="https://raw.githubusercontent.com/Arjunkumar013/Arjunkumar013/main/arjun.svg"
+  alt="Arjun Kumar GitHub Banner"
+  width="100%" 
+/>
 </p>
 
 # 👨‍💻 About Me
